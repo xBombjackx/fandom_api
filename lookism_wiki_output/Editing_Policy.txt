@@ -1,0 +1,250 @@
+Welcome to Lookism Wiki's editing policy! To keep our pages consistent and organized, please do the following.
+General Guidelines
+All articles should be written in English.
+Use the present tense when writing, unless it is about a past event.
+Reference information as often as you can.
+Page Format
+Character Pages
+Write the character names from the English translated Webtoon. Korean names are provided at the top of the page to clarify the character for readers that use other platforms.
+Each character that is mentioned by name should get a character page. However, minor characters have a different character format than main characters, as they do not have enough information to warrant the usage of tabbers.
+Relegate major plot information to the “History” and “Synopsis” sections of the character pages.
+Please pertain to keeping information to the subject header. Many people will write other characters stories when it does not pertain to the page nor subject itself.
+Expand this to see the source code for the base format of major character pages.
+{{CharacterTabs|first=main|second=synopsis|third=relationships|fourth=gallery}}
+{{Charbox
+|title=Example
+|image=Example
+|caption1=Example
+|gender=Example
+|age=Example
+|height=Example
+|birthdate=Example
+|relatives=Example
+|affiliations=Example
+|love_interests=Example
+|status=
+<div class="mw-collapsible mw-collapsed" style="width: 100%">
+<div class="mw-collapsible-content">
+Alive
+</div>
+</div> 
+|debut=
+}}
+{{Quotebox
+|quotetext=
+|personquoted=
+|quotesource=
+}}
+
+'''Character name''' is a character in ''Lookism.''
+
+==Appearance==
+''TBA''
+
+==Personality==
+''TBA''
+
+==History==
+''TBA''
+
+==Trivia==
+''TBA''
+
+==References==
+<references />
+
+==Navigation==
+Expand this to see the source code for the base format of minor character pages.
+{{Charbox
+|title=Example
+|image=Example
+|caption1=Example
+|gender=Example
+|age=Example
+|height=Example
+|birthdate=Example
+|affiliations=Example
+|relatives=Example
+|love_interests=Example
+|status=
+<div class="mw-collapsible mw-collapsed" style="width: 100%">
+<div class="mw-collapsible-content">
+Alive
+</div>
+</div> 
+|debut=
+}}
+{{Quotebox
+|quotetext=
+|personquoted=
+|quotesource=
+}}
+
+'''Character name''' is a minor character in ''Lookism.''
+==Appearance==
+''TBA''
+
+==Personality==
+''TBA''
+
+==History (optional)==
+''TBA''
+
+== Relationships ==
+''TBA''
+
+== Synopsis ==
+''TBA''
+
+==Trivia (optional)==
+''TBA''
+
+== Gallery ==
+<gallery widths="130" orientation="square">
+</gallery>
+
+==References==
+<references />
+
+==Navigation==
+Episode and Arc Pages
+Each episode that is released should get its own page.
+Arc pages are meant to compile episodes from the same arc/chapter. They follow a similar format to episode pages.
+Title each arc the way it was released. Title each episode with "Episode" and the number following. Example: Episode 56.
+If an arc has the same as a character or organization in the story, add (Arc) at the end of the title. For example, Jake Kim is a character. His page is titled “Jake Kim”, and the arc named for him is titled “Jake Kim (Arc)”.
+Expand this to see the source code for the base format of episode pages.
+{{Episodebox
+|title=
+|image1=Episode-xx.png
+|episode=xx
+|arc=xx
+|korean_name=
+|english_name=
+|english_date= Month Day Year
+|korean_date= Month Day Year
+|previous_episode= [[Episode xx]]
+|next_episode=[[Episode xx]]
+|anchor=1}}
+
+==Characters==
+In order of appearance:
+==Summary==
+==Notes==
+== Gallery==
+==References==
+==Navigation==
+{{Episode Navbox}}
+[[Category:Episodes]]
+Expand this to see the source code for the base format of arc pages.
+{{Arcs|image1=|episodes=|previous=|next=}}
+
+== Summary==
+==Characters==
+In order of appearance:
+*
+*
+== Synopsis==
+=== Episode xx===
+==Notes==
+== Gallery==
+==References==
+==Navigation==
+{{Episode Navbox}}
+[[Category:Story Arcs]]
+TV Adaptations
+Each episode should be titled with the number of the episode, followed by the format (Example: Episode 1 (Anime))
+Put the English name and release date of the TV adaptation.
+Expand this to see the source code for the base format of drama pages.
+{{Drama Episodes
+|title= TBA
+|image= TBA
+|episode_link= TBA
+|name= TBA
+|release_date= TBA
+|season= TBA
+|episode= TBA
+|episodes_adapted= TBA
+|story_arcs= TBA
+|intro= TBA
+|outro= TBA
+|previous_episode= TBA
+|next_episode= TBA
+}}
+'''Episode Name''' is the xxth episode of Season 1 of the Lookism drama.
+
+==Summary==
+
+==Characters==
+
+==Synopsis==
+
+==Gallery==
+
+==Notes and Trivia==
+
+==References==
+<references/>
+
+==Navigation==
+{{Drama Navbox}}
+[[Category:Drama]]
+Expand this to see the source code for the base format of anime pages.
+{{Anime Episodes
+|title= TBA
+|image= TBA
+|episode_link= TBA
+|name= TBA
+|release_date= TBA
+|season= TBA
+|episode= TBA
+|episodes_adapted= TBA
+|story_arcs= TBA
+|intro= TBA
+|outro= TBA
+|previous_episode= TBA
+|next_episode= TBA
+}}
+'''Episode Name''' is the xxth episode of Season 1 of the Lookism anime.
+
+==Summary==
+
+==Characters==
+
+==Synopsis==
+
+==Gallery==
+
+==Notes and Trivia==
+
+==References==
+<references/>
+
+==Navigation==
+{{Anime Navbox}}
+[[Category:Anime]]
+Article Information
+Spoilers
+Spoilers are defined as any major information from episodes past the official English release (such as the Korean episodes). These are allowed on pages.
+To hide spoilers, use the source editor to add the
+SpoilerBlur
+code. If it works correctly, it should blur the spoiler unless you hover over it. SpoilerBlur works on infoboxes as well. An example is shown below.
+Code
+:
+<span class="spoilerblur">INSERT TEXT HERE</span>
+Example
+:
+It was revealed in later chapters that DG is the true identity of James Lee
+Note: Spoilerblur does not work on comments or discussion pages. It also does not work on the mobile site unfortunately. You can switch to the desktop version by clicking “View Full Site” at the bottom of the mobile wiki page.
+Non-canon Information
+Canon information refers to information found in the comic or stated by the author. When adding information to pages, please only cite canon information by including a reference or link. This will keep pages as accurate as possible to the source material. If you have speculations and theories about characters and events, post them in the comments section or the discussions page.
+Fan-made Content
+Fan art should not be used for official character pages. Fan art can be uploaded on blogs and user profiles.
+Additional Guidelines
+Please edit using the classic editor or source editor. Visual editor can mess with the formatting of the page.
+Please do not use span and span style number of how short or big the font size is unless on the home page. You can use "br" and "small" when editing.
+Images can be added directly, or inserted into a page via a Gallery. Title the images appropriately and write the context underneath.
+If someone with a page is mentioned, place a hyperlink to their page.
+When writing a quote or citing information, include a reference for the episode.
+You can tag pages with Categories to make them easier to sort out. To find pages with similar themes, you can type in the search box Category:[Whatever you're looking for].
+Reference information as much as possible so it can be assumed to be credible.
+Proof of the page screwing due to using the visual editor
