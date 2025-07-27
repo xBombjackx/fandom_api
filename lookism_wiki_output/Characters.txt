@@ -4,117 +4,116 @@ page. For an alphabetized list, see the
 categories page.
 J High School
 J High School
-Daniel
-Zoe
-Zack
-Mira
-Jay
-Crystal
-Doo Lee
-Yui Kim
-Joy Hong
-Namsoo
-Vasco
-Jace
-Leonn Lee
+Daniel: Daniel_Park.txt
+Zoe: Zoe_Park.txt
+Zack: Zack_Lee.txt
+Mira: Mira_Kim.txt
+Jay: Jay_Hong.txt
+Crystal: Crystal_Choi.txt
+Doo Lee: Doo_Lee.txt
+Yui Kim: Yui_Kim.txt
+Joy Hong: Joy_Hong.txt
+Namsoo: Namsoo.txt
+Vasco: Vasco.txt
+Jace: Jace_Park.txt
+Leonn Lee: Leonn_Lee.txt
 Taejoon Park
-Duke Pyeon
-Vin Jin
-Mary
-Eli Jang
-Logan Lee
+Duke Pyeon: Duke_Pyeon.txt
+Vin Jin: Vin_Jin.txt
+Mary: Mary_Kim.txt
+Eli Jang: Eli_Jang.txt
+Logan Lee: Logan_Lee.txt
 Jay gal-gong
-Kouji
-Jasmine Huh
-Cho Ma
-Gong Ji
+Kouji: Kouji.txt
+Jasmine Huh: Jasmine_Huh.txt
+Cho Ma: Cho_Ma.txt
+Gong Ji: Gong_Ji.txt
 Four Major Crews
 Big Deal
 EpY1VDxXYAII0cI.jpg large.jpg
-Jake Kim
-Jerry Kwon
-Jason Yoon
-Brad Lee
-Lineman
-Lua Im
-Sinu Han
+Jake Kim: Jake_Kim.txt
+Jerry Kwon: Jerry_Kwon.txt
+Jason Yoon: Jason_Yoon.txt
+Brad Lee: Brad_Lee.txt
+Lineman: Lineman.txt
+Lua Im: Lua_Im.txt
+Sinu Han: Sinu_Han.txt
 Hostel
 Hostel B
 Hostel A
 Runaway Fam
-Eli Jang
-Sally Park
-Warren Chae
-Max Kang
-Derrick Jo
-Ryan the Cat
-Olly Wang
-James Gong
-Jasmine Huh
-Justin Peng
-Chuck Kwak
+Eli Jang: Eli_Jang.txt
+Sally Park: Sally_Park.txt
+Warren Chae: Warren_Chae.txt
+Max Kang: Max_Kang.txt
+Derrick Jo: Derrick_Jo.txt
+Ryan the Cat: Ryan_the_Cat.txt
+Olly Wang: Olly_Wang.txt
+James Gong: James_Gong.txt
+Jasmine Huh: Jasmine_Huh.txt
+Justin Peng: Justin_Peng.txt
+Chuck Kwak: Chuck_Kwak.txt
 MC Pesticides
-Amy Lee
-Natalie Cho
-Riley Oh
-Moley
+Amy Lee: Amy_Lee.txt
+Natalie Cho: Natalie_Cho.txt
+Riley Oh: Riley_Oh.txt
+Moley: Moley.txt
 Young Eli Jang
 Workers
 Leadership
 Second affiliate
 Third affiliate
 Fourth affiliate
-Eugene
-Mandeok Bang
+Eugene: Eugene.txt
+Mandeok Bang: Mandeok_Bang.txt
 Cap Guy
 Neko
 Nomen
 Daruma
 Hyottoko
-Hannya
-Vivi
-Xiaolong
-Taegon Wi
-Hwang Ho
-Sowol Jin
-Huseong Ha
-Old Face
-Samuel Seo
-Alexander Hwang
+Vivi: Vivi.txt
+Xiaolong: Xiaolong.txt
+Taegon Wi: Taegon_Wi.txt
+Hwang Ho: Hwang_Ho.txt
+Sowol Jin: Sowol_Jin.txt
+Huseong Ha: Huseong_Ha.txt
+Old Face: Old_Face.txt
+Samuel Seo: Samuel_Seo.txt
+Alexander Hwang: Alexander_Hwang.txt
 Other Groups
 Backdoor
-Jiho Park
-Darius Hong
-Ethan Hwang
-Wally Lee
+Jiho Park: Jiho_Park.txt
+Darius Hong: Darius_Hong.txt
+Ethan Hwang: Ethan_Hwang.txt
+Wally Lee: Wally_Lee.txt
 Ansan Public
-Hudson Ahn
-Channing Choi
-Jacky Lee
-Taesoo Ma
+Hudson Ahn: Hudson_Ahn.txt
+Channing Choi: Channing_Choi.txt
+Jacky Lee: Jacky_Lee.txt
+Taesoo Ma: Taesoo_Ma.txt
 Ten Geniuses
 Waesrdtdtrseasrdtfyg.png
 DG
-Tom Lee
-Gun Park
-Goo Kim
-Crystal Choi
-Kouji
+Tom Lee: Tom_Lee.txt
+Gun Park: Gun_Park.txt
+Goo Kim: Goo_Kim.txt
+Crystal Choi: Crystal_Choi.txt
+Kouji: Kouji.txt
 Jinyoung Park
 White Tiger Job Centre
-Tom Lee
-Senior Manager Kim
-Robert Choi
-Gabriel Park
+Tom Lee: Tom_Lee.txt
+Senior Manager Kim: Senior_Manager_Kim.txt
+Robert Choi: Robert_Choi.txt
+Gabriel Park: Gabriel_Park.txt
 Han Sanghee
 Kim Yeongcheol
-Johan Seong
+Johan Seong: Johan_Seong.txt
 Other Characters
 Other Characters
 Daniel's mother
-Heather
-Brekdak
-Steve Hong
+Heather: Heather_Choi.txt
+Brekdak: Brekdak.txt
+Steve Hong: Steve_Hong.txt
 Miss Sophia
-Charles Choi
-Aru
+Charles Choi: Charles_Choi.txt
+Aru: Arin.txt
